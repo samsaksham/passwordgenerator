@@ -23,7 +23,7 @@ To create a symlink to run "passwordgenerator" from anywhere
 npm link
 
 # Now you can run
-passgen (options)
+passwordgenerator (options)
 
 # To remove symlink
 npm unlink
